@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Argueta @godiegogt
 - 👀 I’m interested in improve my programming skills
-- 🌱 I’m currently learning native cloud
+- 🌱 I’m currently learning cloud native
 - 
 - 📫 How to reach me: Email: dargueta1879@gmail.com, Instagram @godiegogt
 
